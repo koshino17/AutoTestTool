@@ -1,0 +1,16 @@
+Index of Test plan,Status (Y/N),Project,Chip,TestCase,ComPort,TestType,Ext_Parameter,SpecFile,,,,
+,Y,V3NF_IVI,MCB,VERSION_CHECK,,,,criteria.json,,,,
+,Y,V3NF_IVI,MCB,SHOWFS26STATE_CHECK,,,,,,,,
+,Y,V3NF_IVI,MCB,GPIO_LIST_CHECK,,,,criteria.json,,,,
+,Y,V3NF_IVI,MCB,SHOWVOLTAGES_CHECK,,,,criteria.json,,,,
+,Y,V3NF_IVI,MCB,IDENTIFIER_88Q5152_CHECK,,,,criteria.json,,,,
+,N,V3NF_IVI,MCB,SOCDLMODE_ON_CHECK,,,,,,,,No use
+,Y,V3NF_IVI,MCB,I2CSCAN_0_CHECK,,,,,,,,
+,N,V3NF_IVI,MCB,UARTSEND_0_CHECK,,,,,,,,No use
+,N,V3NF_IVI,MCB,UARTSEND_1_CHECK,,,,,,,,No use
+,N,V3NF_IVI,MCB,STANDBY_CHECK,,,,,,,,No use
+,N,V3NF_IVI,MCB,SOCRESET_CHECK,,,,,,,,No use
+,,,,,,,,,,,,
+,N,V3NF_IVI,MCB,PGOODSTATUS_CHECK,,,,,,,,Cover by GPIO_LIST_CHECK
+,,,,,,,,,,,,
+,Y,V3NF_IVI,MCB,VERSION_CHECK_UART,20,,,criteria.json,,,,
