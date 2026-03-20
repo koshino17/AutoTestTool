@@ -16,8 +16,8 @@
 ### 1. 下載專案
 首先，將此儲存庫複製到你的本地端：
 ```bash
-git clone [https://github.com/你的帳號/倉庫名.git](https://github.com/koshino17/AutoTestTool.git)
-cd 倉庫名
+git clone https://github.com/koshino17/AutoTestTool.git
+cd AutoTestTool
 ```
 
 ### 2. 配置檔案 (重要)
